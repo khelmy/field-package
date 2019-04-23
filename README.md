@@ -1,6 +1,6 @@
 # field-package
 
-This package contains the field environment for (`plants-rl`)[https://github.com/khelmy/plants-rl/].
+This package contains the field environment for [`plants-rl`](https://github.com/khelmy/plants-rl/).
 
 ## Installation
 
